@@ -9,4 +9,4 @@ The tutorial covers how to:
 - Show how you can name variables using emojis
 
 Tutorial YouTube Link:
-https://www.youtube.com/watch?v=0iyB0_qPvWk
+https://www.youtube.com/watch?v=o946cSLEzFI&t=446s
